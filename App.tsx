@@ -24,7 +24,7 @@ export default function App() {
         <Stack.Screen 
           name='Screen2'
           component={Screen2}
-          options={{title:'Search'}}
+          options={{title:'Search',}}
         />
           
       </Stack.Navigator>
